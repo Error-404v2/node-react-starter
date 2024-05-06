@@ -1,6 +1,6 @@
 ## this is a starter project for node.js backend that serves a react frontend
 
-### to **install** and **install** the **dependencies** once for the **backend** and the **frontend**
+### to **install** and **update** the **dependencies** once for the **backend** and the **frontend**
 
 ```bash
 npm install
